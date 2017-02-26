@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FA88C94C-56F7-7867-BE11-DDD03D95E284}") = "RocketMouse", "Assembly-CSharp-firstpass.csproj", "{4283DD3C-624D-C842-D970-F9AC72E963D7}"
+EndProject
+Project("{FA88C94C-56F7-7867-BE11-DDD03D95E284}") = "RocketMouse", "Assembly-CSharp.csproj", "{E7E56DAD-D71A-85A6-61F6-9E0BB39307F3}"
+EndProject
+Project("{FA88C94C-56F7-7867-BE11-DDD03D95E284}") = "RocketMouse", "Assembly-CSharp-Editor-firstpass.csproj", "{83530A03-BA4C-F3BE-17A1-DB4819E6174E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4283DD3C-624D-C842-D970-F9AC72E963D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4283DD3C-624D-C842-D970-F9AC72E963D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4283DD3C-624D-C842-D970-F9AC72E963D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4283DD3C-624D-C842-D970-F9AC72E963D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E56DAD-D71A-85A6-61F6-9E0BB39307F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E56DAD-D71A-85A6-61F6-9E0BB39307F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E56DAD-D71A-85A6-61F6-9E0BB39307F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E56DAD-D71A-85A6-61F6-9E0BB39307F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83530A03-BA4C-F3BE-17A1-DB4819E6174E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83530A03-BA4C-F3BE-17A1-DB4819E6174E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83530A03-BA4C-F3BE-17A1-DB4819E6174E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83530A03-BA4C-F3BE-17A1-DB4819E6174E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
